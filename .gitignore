@@ -1,0 +1,21 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.db
+
+# Environnements virtuels
+venv/
+.venv/
+
+# Tests
+.pytest_cache/
+.coverage
+
+# Fichiers locaux et secrets
+.env
+.env.*
+
+# Système
+.DS_Store
+Thumbs.db
